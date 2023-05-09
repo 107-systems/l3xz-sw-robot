@@ -1,0 +1,18 @@
+[submodule "robot/ws/colcon/l3xz_watchdog"]
+	path = robot/ws/colcon/l3xz_watchdog
+	url = https://github.com/107-systems/l3xz_watchdog
+[submodule "robot/ws/colcon/ros2_cyphal_bridge"]
+	path = robot/ws/colcon/ros2_cyphal_bridge
+	url = https://github.com/107-systems/ros2_cyphal_bridge
+[submodule "robot/ws/colcon/ros2_dynamixel_bridge"]
+	path = robot/ws/colcon/ros2_dynamixel_bridge
+	url = https://github.com/107-systems/ros2_dynamixel_bridge
+[submodule "robot/ws/colcon/l3xz_gait_ctrl"]
+	path = robot/ws/colcon/l3xz_gait_ctrl
+	url = https://github.com/107-systems/l3xz_gait_ctrl
+[submodule "robot/ws/colcon/l3xz_head_ctrl"]
+	path = robot/ws/colcon/l3xz_head_ctrl
+	url = https://github.com/107-systems/l3xz_head_ctrl
+[submodule "robot/ws/l3xz_frontend"]
+	path = robot/ws/l3xz_frontend
+	url = https://github.com/107-systems/l3xz_frontend
