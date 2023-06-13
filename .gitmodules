@@ -16,3 +16,12 @@
 [submodule "robot/ws/l3xz_frontend"]
 	path = robot/ws/l3xz_frontend
 	url = https://github.com/107-systems/l3xz_frontend
+[submodule "robot/ws/colcon/l3xz_pump_ctrl"]
+	path = robot/ws/colcon/l3xz_pump_ctrl
+	url = https://github.com/107-systems/l3xz_pump_ctrl
+[submodule "robot/ws/colcon/l3xz_valve_ctrl"]
+	path = robot/ws/colcon/l3xz_valve_ctrl
+	url = https://github.com/107-systems/l3xz_valve_ctrl
+[submodule "robot/ws/colcon/ros2_heartbeat"]
+	path = robot/ws/colcon/ros2_heartbeat
+	url = https://github.com/107-systems/ros2_heartbeat
