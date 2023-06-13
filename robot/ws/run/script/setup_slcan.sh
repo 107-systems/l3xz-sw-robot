@@ -1,0 +1,1 @@
+../../colcon/ros2_cyphal_bridge/scripts/setup_slcan.sh
